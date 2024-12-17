@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mainheader{
+    border: 2px solid white;
+    height: 60px;
+    background-color: #0057D9;
+}
+
+.nav{
+    width: 70%;
+    /* border: 2px solid red; */
+    height: 60px;
+    margin: 0 auto;
+}
+
+.maindiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.firstdiv a img{
+    height: 20px;
+
+}
+
+.firstdiv span{
+    color: yellow;
+    
+}
+
+.firstdiv div img{
+    height: 11px;
+}
+
+.firstdiv div{
+    margin-top:-7px;
+}
+
+.firstdiv a{
+    text-decoration: none;
+    color: white;
+    font-size: small;
+}
+
+.div2 input{
+    height: 25px;
+    width: 150pxpx;
+
+}
+
+/* .div3 a{
+    text-decoration: none;
+    /* color: white; 
+    background-color: white;
+    padding: 5px;
+    
+} */
+
+.div3{
+    margin-top: 3px;
+   
+}
+
+.div3 h4{
+    color: blue;
+    background-color:white ;
+    /* padding: 4px; */
+    width: 70px;
+    text-align: center;
+    
+}
+
+.div4{
+    color: white;
+    font-weight: 400;
+}
+
+.div5{
+    color: white;
+}
+
+.div6{
+    color: white;
+}
+
+
+/* .................second div part..................... */
+
+.seconddiv{
+    border: 2px solid;
+    width: 40%;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    display: none;
+    
+    
+    
+    
+}
+
+.div11{
+    background-color: #2874f0;
+    height: 100%;
+    /* border: 2px solid; */
+    width: 50%;
+    color: white;
+}
+
+.div11 h1{
+    padding: 5px;
+    
+}
+
+.div11 p{
+    margin: 10px;
+}
+
